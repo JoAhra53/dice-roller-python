@@ -13,6 +13,7 @@ while True:
 
     elif user_choice=='n':
        print("Have a good day")
+       print("Bye")
     else:
        print ("Sorry I don't understand")
 
