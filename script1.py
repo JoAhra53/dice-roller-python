@@ -12,7 +12,8 @@ while True:
        print (f"[{first_num},{second_num}]")
 
     elif user_choice=='n':
-       print("Hope you have a good day")
+       print("Have a good day")
+       print("Bye")
     else:
        print ("Sorry I don't understand")
 
